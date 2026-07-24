@@ -1,0 +1,12 @@
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.sct
+*.map
+*.dep
+*.build_log.htm
+*.hex
+*.uvgui.*
